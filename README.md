@@ -1,2 +1,2 @@
 # Management_System
-This is management application of an employee in a console
+This is a basic level management application for an employee using database in CLI.
